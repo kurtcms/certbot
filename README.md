@@ -51,7 +51,7 @@ Be sure to have the dependencies in place. A reference is avaliable [here](https
 
 ### Run
 
-Run the script with [Bash](https://github.com/gitGNU/gnu_bash)
+Run the script
 
 ```shell
 $ /app/certbot/certbot.sh
