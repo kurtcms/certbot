@@ -20,7 +20,7 @@ A detailed walk-through is available [here](https://kurtcms.org/automation-tls-w
 
 Get started in three simple steps:
 
-1. [Download](#git-clone) a copy of the script;s
+1. [Download](#git-clone) a copy of the script;
 2. Provide the script with execute [permission](#permission);
 3. Ensure the [dependencies](#dependencies) are in place; and
 4. [Run](#run) the script manually.
@@ -35,7 +35,7 @@ $ git clone https://github.com/kurtcms/certbot /app/certbot/
 
 ### Permission
 
-Provide the script with execute permission
+Provide the script with execute permission.
 
 ```shell
 $ chmod +x /app/certbot/certbot.sh
@@ -51,10 +51,10 @@ Be sure to have the dependencies in place. A reference is avaliable [here](https
 
 ### Run
 
-Run the script
+Run the script.
 
 ```shell
 $ /app/certbot/certbot.sh
 ```
 
-And have a signed SSL/TLS certificate installed
+And have a signed SSL/TLS certificate installed.
