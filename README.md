@@ -4,7 +4,7 @@ This Bash script may be executed on a terminal or by a task scheduler such as [c
 
 1. [Read](https://linux.die.net/man/1/read) from standard input the root domain and email address;
 2. Generate a NGINX config with the root domain; and
-3. Register and request a signed SSL/TLS certificate with [Certbot](https://certbot.eff.org/).
+3. Register and request a signed TLS certificate with [Certbot](https://certbot.eff.org/).
 
 A detailed walk-through is available [here](https://kurtcms.org/automation-tls-with-certbot/).
 
@@ -57,4 +57,4 @@ Run the script.
 $ /app/certbot/certbot.sh
 ```
 
-And have a signed SSL/TLS certificate installed.
+And have a signed TLS certificate installed.
