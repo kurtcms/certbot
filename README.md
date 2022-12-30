@@ -23,7 +23,7 @@ Get started in three simple steps:
 1. [Download](#git-clone) a copy of the script;
 2. Provide the script with execute [permission](#permission);
 3. Ensure the [dependencies](#dependencies) are in place; and
-4. [Run](#run) the script manually.
+4. [Run](#run) the script.
 
 ### Git Clone
 
