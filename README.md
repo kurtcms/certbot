@@ -51,7 +51,7 @@ Be sure to have the dependencies in place. A reference is avaliable [here](https
 
 ### Run
 
-Run the script.
+Run the script manually or as part of an automation workflow.
 
 ```shell
 $ /app/certbot/certbot.sh
